@@ -18,4 +18,4 @@ A passionate learner ready to tackle all the challenges of the constantly evolvi
 
 ## LANGUAGE-CARDS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASHNIHAS)](https://github.com/AKASHNIHAS/AKASHNIHAS/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASHNIHAS)](https://github.com/AKASHNIHAS/edit/main/README.md)
