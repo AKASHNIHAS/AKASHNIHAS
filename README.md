@@ -11,4 +11,4 @@ A passionate learner ready to tackle all the challenges of the constantly evolvi
 ## SKILLS 
 
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" />
