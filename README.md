@@ -14,4 +14,4 @@ A passionate learner ready to tackle all the challenges of the constantly evolvi
 
 ## STATS 
 
-[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKASHNIHAS)](https://github.com/AKASHNIHAS/github-readme-stats)
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKASHNIHAS&show_icons=true&theme=radical)](https://github.com/AKASHNIHAS/github-readme-stats)
