@@ -2,11 +2,11 @@
 
 ## DEVOPS
 
-![image](https://miro.medium.com/v2/resize:fit:1400/1*toYapRvF2zf6KVcKb1qOMg.png)
+![image](https://opengeekslab.com/wp-content/uploads/2019/11/How-to-Reduce-Time-to-Market-with-DevOps-Engineer.png)
 
 A passionate learner ready to tackle all the challenges of the constantly evolving Devops field with keen interest.
 
-<!-- ![image](https://miro.medium.com/v2/resize:fit:1400/1*toYapRvF2zf6KVcKb1qOMg.png) -->
+<!-- ![image](https://opengeekslab.com/wp-content/uploads/2019/11/How-to-Reduce-Time-to-Market-with-DevOps-Engineer.png) -->
 
 ## SKILLS 
 
