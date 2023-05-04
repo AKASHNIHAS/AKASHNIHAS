@@ -2,12 +2,12 @@
 
 ## Self taught Go developer.
 
-![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*toYapRvF2zf6KVcKb1qOMg.png)
 
 A self taught Go developer, passionate about programming also fast learner with good communication skills. And motivated to upgrade and expand the skill set throughout life. Switching platforms is not hard. Looking forward to gain meaningful employment with a company that will allow personal and professional growth without limiting the opportunity for further enlightenment and enhanced education.
 
 
-<!-- ![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white) -->
+<!-- ![image](https://miro.medium.com/v2/resize:fit:1400/1*toYapRvF2zf6KVcKb1qOMg.png) -->
 
 
   <summary>☎️ Contact me</summary>
