@@ -16,6 +16,3 @@ A passionate learner ready to tackle all the challenges of the constantly evolvi
 
 [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKASHNIHAS&show_icons=true&theme=radical)](https://github.com/AKASHNIHAS/github-readme-stats)
 
-## LANGUAGE-CARDS
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASHNIHAS)](https://github.com/AKASHNIHAS/AKASHNIHAS/edit/main/README.md)
