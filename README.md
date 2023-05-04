@@ -11,3 +11,11 @@ A passionate learner ready to tackle all the challenges of the constantly evolvi
 ## SKILLS 
 
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" /> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+## STATS 
+
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKASHNIHAS)](https://github.com/AKASHNIHAS/github-readme-stats)
+
+## LANGUAGE-CARDS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASHNIHAS)](https://github.com/AKASHNIHAS/AKASHNIHAS/edit/main/README.md)
