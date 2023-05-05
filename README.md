@@ -18,8 +18,8 @@ A passionate learner ready to tackle all the challenges of the constantly evolvi
 
 ## STATS 
 
-[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKASHNIHAS&show_icons=true&theme=radical)](https://github.com/AKASHNIHAS/github-readme-stats)
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKASHNIHAS&show_icons=true&theme=radical)](https://github.com/AKASHNIHAS/edit/main/README.md)
 
 ## LANGUAGE 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASHNIHAS&show_icons=true&theme=radical)](https://github.com/AKASHNIHAS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASHNIHAS&show_icons=true&theme=radical)](https://github.com/AKASHNIHAS/AKASHNIHAS/edit/main/README.md)
