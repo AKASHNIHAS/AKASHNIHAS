@@ -1,6 +1,6 @@
 # Hi there 👋  I am AKASH LM...
 
-## DEVOPS
+## DEVOPS ENGINEER 
 
 ![image](https://opengeekslab.com/wp-content/uploads/2019/11/How-to-Reduce-Time-to-Market-with-DevOps-Engineer.png)
 
